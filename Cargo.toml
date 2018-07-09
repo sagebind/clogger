@@ -1,0 +1,13 @@
+[package]
+name = "clogger"
+version = "0.1.0"
+description = "Simple console logger that is configurable at runtime for command line apps."
+authors = ["Stephen M. Coakley <me@stephencoakley.com>"]
+license = "MIT"
+keywords = ["log", "logger"]
+categories = ["command-line-interface"]
+repository = "https://github.com/sagebind/clogger"
+
+[dependencies]
+ansi_term = "0.9"
+log = "0.4"

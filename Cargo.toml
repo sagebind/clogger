@@ -9,5 +9,5 @@ categories = ["command-line-interface"]
 repository = "https://github.com/sagebind/clogger"
 
 [dependencies]
-ansi_term = "0.11"
+ansi_term = "0.12"
 log = "0.4"
